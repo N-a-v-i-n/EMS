@@ -1,5 +1,9 @@
 # Employee Management System (EMS)
 
+NOTE:-
+username: naveen
+password: test
+
 This is a full-stack Employee Management System built with:
 
 - **Django (REST Framework)** for the backend API
